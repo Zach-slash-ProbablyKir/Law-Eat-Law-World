@@ -1,7 +1,7 @@
 # Law-Eat-Law-World
 Source files for a scrapped game project, "LAW EAT LAW WORLD"
 
-This project was started around December 2024. It was meant to be a small web game I was going to upload to Newgrounds, but it very quickly became overscaled.
+This project was started around December 2023. It was meant to be a small web game I was going to upload to Newgrounds, but it very quickly became overscaled.
 
 It was canceled for multiple reasons;
 
