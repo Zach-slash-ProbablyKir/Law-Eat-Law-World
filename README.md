@@ -5,7 +5,7 @@ This project was started around December 2023. It was meant to be a small web ga
 
 It was canceled for multiple reasons;
 
-1 - Writing the script was very difficult. And not just because writing an enganing mystery is hard. My writing is very much inspired by things like Theatre and Television specifically, meaning my stories tend to be very linear. So writing a game that was supposed to have many branching paths and tons of NPC was way out of my skill level at the time.
+1 - Writing the script was very difficult. And not just because writing an engaging mystery is hard. My writing is very much inspired by things like Theatre and Television specifically, meaning my stories tend to be very linear. So writing a game that was supposed to have many branching paths and tons of NPC was way out of my skill level at the time.
 
 2 - Around summer through that year, my artstyle had a DRASTIC improvement. This would mean that had I continued making it, I would need to redraw all the assets which I very much did not wanna do.
 
